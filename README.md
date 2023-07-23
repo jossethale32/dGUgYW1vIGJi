@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://icon-library.com/images/icon-hacker/icon-hacker-14.jpg" width="100"/>
   
-  <h2 style="font-family: 'Arial'; font-size: 22px;">VULNERABE?_____BUSCATE LA TUYA BRO</h2>
+  <h2 style="font-family: 'Arial'; font-size: 22px;">VULNERABLE?_____BUSCATE LA TUYA BRO</h2>
 </div>
 <center>
 <div id="badges">
